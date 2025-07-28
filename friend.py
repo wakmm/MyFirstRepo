@@ -1,8 +1,8 @@
 friend="CHAUDHARY ALI"
-print("name:",friend)
+print("Name:",friend)
 marks="1143"
-print("marks:",marks)
+print("Marks:",marks)
 percentage="95.25%"
-print("percentage:",percentage)
+print("Percentage:",percentage)
 grade="A+"
-print("grade:",grade)
+print("Grade:",grade)
